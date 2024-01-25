@@ -13,4 +13,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 2. Change into the project directory: `cd responsive-web-design-certification`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TazmeenAfroz/Balance-Sheet/blob/main/sheet.png" alt="Balance Sheet" width="200px" height="auto" style="max-width:200%; height:auto;">
+  ![Example Image](https://raw.githubusercontent.com/TazmeenAfroz/Balance-Sheet/main/path/to/your/image.png)
